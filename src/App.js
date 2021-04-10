@@ -1,9 +1,10 @@
-
+import "./popup.scss"
+import Popup from "./componenets/Popup"
 
 function App() {
   return (
     <div className="App">
-      george batsela
+      <Popup />
     </div>
   );
 }
